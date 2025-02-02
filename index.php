@@ -17,17 +17,21 @@
         <h2>About Me</h2>
         <div class="about-content">
             <p>
-                I am an undergraduate student at Mulungushi University, pursuing a Bachelor of Science in Information Technology.
-                My focus is on software development and emerging technologies, with coursework in Software Engineering, Artificial Intelligence,
-                Cloud Computing, and Mobile Application Programming.
+                Hi, I’m Chiyume Chunga, a passionate developer currently pursuing my Bachelor of Science in Information Technology at Mulungushi University.
+                With a strong focus on software development and emerging technologies, I thrive on creating innovative solutions that bridge the gap between technology and everyday challenges.
             </p>
             <p>
-                I have hands-on experience in developing Android applications and building web applications. I am passionate about solving
-                real-world problems using technology.
+                My academic journey has equipped me with robust knowledge in areas such as Software Engineering, Artificial Intelligence, Cloud Computing, Web Technologies, and Mobile Application Programming. I’ve had the opportunity to apply this knowledge through hands-on projects—developing intuitive Android applications and building responsive web platforms that emphasize user experience and efficiency.
             </p>
+            <p>
+                I believe that technology can transform lives, and I’m always excited to tackle new challenges, whether it’s streamlining processes or developing creative tech solutions. As I continue to learn and grow, I look forward to collaborating on projects that push the boundaries of what’s possible.
+            </p>
+            <p>Let’s connect and explore how we can innovate together!</p>
+            <!--
             <a href="downloads/Resume_CHIYUME%20CHUNGA.pdf" download class="btn">
                 <i class="fas fa-download"></i> Download Resume
             </a>
+            -->
         </div>
     </section>
 
@@ -37,7 +41,7 @@
         <div class="filter-buttons">
             <button class="filter-btn active" data-filter="all">All</button>
             <button class="filter-btn" data-filter="android">Android</button>
-            <button class="filter-btn" data-filter="web">Web</button>
+            <!-- <button class="filter-btn" data-filter="web">Web</button> -->
         </div>
         <div class="project-grid">
             <!-- Project 1: Totally Waxed Android Application -->
