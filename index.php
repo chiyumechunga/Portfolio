@@ -64,29 +64,7 @@
                 </ul>
             </div>
 
-            <!-- Project 2: E-Commerce Website -->
-            <div class="project-card" data-category="web">
-                <h3>E-Commerce Website</h3>
-                <p>
-                    A fully functional e-commerce website built using PHP and MySQL. The website allows users to browse products,
-                    add them to a cart, and complete purchases.
-                </p>
-                <p><strong>Technologies:</strong> PHP, MySQL, HTML, CSS, JavaScript</p>
-                <p><strong>Key Features:</strong></p>
-                <ul>
-                    <li>User registration and login system</li>
-                    <li>Product search and filtering</li>
-                    <li>Shopping cart and checkout functionality</li>
-                    <li>Admin panel for managing products and orders</li>
-                </ul>
-                <p><strong>Skills Demonstrated:</strong></p>
-                <ul>
-                    <li>Backend development with PHP and MySQL</li>
-                    <li>Frontend development with HTML, CSS, and JavaScript</li>
-                    <li>Database design and management</li>
-                    <li>Problem-solving and debugging</li>
-                </ul>
-            </div>
+
         </div>
     </section>
 
